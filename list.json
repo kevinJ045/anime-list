@@ -4,6 +4,7 @@
     "rating": 8,
     "watched": true,
     "category": "Action",
-    "tags": ["action", "military"]
+    "tags": ["action", "military"],
+    "current": 80
   }
 ]
