@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Attack On Titan",
+    "rating": 8,
+    "watched": true,
+    "category": "Action",
+    "tags": ["action", "military"]
+  }
+]
